@@ -2,7 +2,7 @@
 
 Bu proje 500x500 boyutunda bir alanda hayvan ekosistemini simüle etmektedir. Koyun, inek, tavuk, horoz, kurt, aslan ve avcı gibi çeşitli hayvan türleri bu ekosistem içerisinde etkileşim içindedir. Her hayvanın hareket, avlanma ve üreme gibi kendine özgü davranışları vardır.
 
-## Features 
+## Özellikler
 -  Hayvanlar çiftlikte random olarak x ve y yönünde hareket edebilir.
 -  Aynı konumda iki hayvan aynı anda bulunamaz.
 -  Avlanma:Yırtıcı hayvanlar (kurtlar, aslanlar, avcılar) yakındaki avları (koyun, inek, tavuk vb.) avlarlar.
@@ -10,7 +10,7 @@ Bu proje 500x500 boyutunda bir alanda hayvan ekosistemini simüle etmektedir. Ko
 -  Yeni yavruların cinsiyeti ve konumları randomdur. 
 -  Simülasyon sonuçları : Her hayvan türünün zaman içindeki popülasyonunu gösterir.
 
-## Project Structure
+## Proje Yapısı
 
 `HayvanatBahcesiTest.java:`  Simülasyonu yöneten ana sınıf.
 
