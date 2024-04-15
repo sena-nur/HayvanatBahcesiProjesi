@@ -1,4 +1,4 @@
-# HayvanatBahcesiProjesi
+# Hayvanat Bahçesi Projesi
 
 Bu proje 500x500 boyutunda bir alanda hayvan ekosistemini simüle etmektedir. Koyun, inek, tavuk, horoz, kurt, aslan ve avcı gibi çeşitli hayvan türleri bu ekosistem içerisinde etkileşim içindedir. Her hayvanın hareket, avlanma ve üreme gibi kendine özgü davranışları vardır.
 
